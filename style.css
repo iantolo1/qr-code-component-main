@@ -17,10 +17,6 @@ body {
   background-color: white;
   border-radius: 29px;
 }
-img {
-  border-radius: 15px;
-  width: 300px;
-}
 .p1,
 .p2 {
   font-weight: 900;
@@ -38,4 +34,8 @@ img {
   display: grid;
   justify-content: center;
   margin: 29px;
+  height: 400px;
+  border-radius: 29px;
+  background-image: url(./images/image-qr-code.png);
+  background-position: center;
 }
